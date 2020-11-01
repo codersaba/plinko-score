@@ -1,0 +1,2 @@
+# plinko-score
+vsc
